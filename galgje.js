@@ -42,5 +42,5 @@ function ShowLettersAsButtons() {
 
 function ChooseLetter(element) {
     element.disabled = true;
-
+    
 }
